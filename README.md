@@ -1,11 +1,11 @@
 
 # Spring Security with JDBC on H2 embedded database
 
+![Java CI with Maven](https://github.com/hemrajanilavesh/spring-auth-jdbc-h2/actions/workflows/maven.yml/badge.svg)
+
 Using `spring-security` to implement 
   - Basic Authentication with username / password 
   - Authorization through Role Based Access Control
-
-
 
 | API  | Required Role | Description |
 | ------------ | ---- | --- |
